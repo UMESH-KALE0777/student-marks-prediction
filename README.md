@@ -73,4 +73,4 @@ This project demonstrates a complete ML workflow, including:
 - Building UI  
 - Deployment  
 
-Perfect for beginners starting in **AI/ML**.
+Perfect for beginners starting in **AI/ML**
