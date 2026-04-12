@@ -8,7 +8,7 @@ A simple and beginner-friendly **Machine Learning Regression Project** that pred
 
 This project is built completely using **Python (.py files only)** with a clean, industry-level folder structure.
 
----
+--
 
 ## 🚀 Features
 
