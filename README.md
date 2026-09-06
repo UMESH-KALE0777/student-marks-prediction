@@ -3,7 +3,7 @@
 A simple and beginner-friendly **Machine Learning Regression Project** that predicts student marks based on:
 
 - Hours studied  
-- Attendance percentage  
+- Attendance percentage  ..
 - Assignments submitted  
 
 This project is built completely using **Python (.py files only)** with a clean, industry-level folder structure.
